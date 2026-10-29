@@ -1,4 +1,5 @@
 La Bioinformática es muy importante para el ánalisis de datos.
 
-Además existen varios comandos que debemos memorizar.
-La Bioinformática es crucial para la biología molecular
+Además existen varios comandos que debemos memorizar y se pueden buscar en internet.
+La Bioinformática es crucial para la biología molecular.
+Es importante tener bases previas de programación.
